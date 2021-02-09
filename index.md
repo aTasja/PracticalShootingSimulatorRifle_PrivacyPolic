@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/aTasja/PracticalShootingSimulatorRifle_PrivacyPolic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. The term “personal information” as used herein is defined as any information that identifies or may be used to identify, contact, or search for the person to whom such information relates. The personal information we collect will be subject to this privacy policy, as amended from time to time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. We do not request your email address, telephone number or any information about you.
 
-### Markdown
+3. We do not sell content.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. We do not require registration.
 
-```markdown
-Syntax highlighted code block
+5. The security of your personal information will not be compromised.
 
-# Header 1
-## Header 2
-### Header 3
+6. We do not request location information through our mobile app.
 
-- Bulleted
-- List
+7. We do not send email newsletters.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Contacts 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aTasja/PracticalShootingSimulatorRifle_PrivacyPolic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+e-mail: shatova_app@mail.ru
